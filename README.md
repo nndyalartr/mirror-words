@@ -1,2 +1,2 @@
-# mirror-words
+# odds and evens
 assignment1_3
